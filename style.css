@@ -224,7 +224,7 @@ h2 {
   .btnPrev {
     position: fixed;
     top: 2em;
-    left: 47%;
+    left: 44%;
     width: 20px;
     height: 20px;
     border: 0;
@@ -237,7 +237,7 @@ h2 {
   .btnNext {
     position: fixed;
     top: 2em;
-    right: 47%;
+    right: 44%;
     width: 20px;
     height: 20px;
     border: 0;
@@ -301,7 +301,7 @@ h2 {
 }
 
 .weather{
-  font-size: 14px;
+  font-size: 9px;
   display: flex;
   flex-direction: column;
   align-items: center;
