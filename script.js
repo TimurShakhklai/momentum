@@ -236,9 +236,9 @@ async function getWeather() {
   const data = await res.json();
   if(data.cod == 404) {
     weatherIcon.className = '';
-  temperature.textContent = 'City not found';
+  temperature.textContent = '';
   weatherDescription.textContent = '';
-  wind.textContent = 'Error';
+  wind.textContent = 'City not found';
   humidity.textContent = '';
   } else{
   weatherIcon.className = 'weather-icon owf';
