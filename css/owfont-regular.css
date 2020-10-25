@@ -4,6 +4,17 @@
  */
 /* FONT PATH
  * -------------------------- */
+@media (max-width: 320px) {
+  .owf {
+  display: inline-block;
+  font: normal normal normal 14px/1 owfont;
+  font-size: 1em;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transform: translate(0, 0);
+}
+}
 @font-face {
   font-family: 'owfont';
   src: url('../fonts/owfont-regular.eot?v=1.0.0');
