@@ -179,10 +179,10 @@ h2 {
 .quote {
   position: absolute;
   bottom: 1em;
-  left: 20%;
-  right: 20%;
+  left: 17%;
+  right: 17%;
   font-family: 'Quicksand', sans-serif;
-  font-size: 10px;
+  font-size: 9px;
   margin: 0;
   background: rgba(0, 0, 0, 0.692);
   padding: 1em;
@@ -224,7 +224,7 @@ h2 {
   .btnPrev {
     position: fixed;
     top: 2em;
-    left: 44%;
+    left: 43%;
     width: 20px;
     height: 20px;
     border: 0;
@@ -237,7 +237,7 @@ h2 {
   .btnNext {
     position: fixed;
     top: 2em;
-    right: 44%;
+    right: 43%;
     width: 20px;
     height: 20px;
     border: 0;
@@ -279,7 +279,7 @@ h2 {
 }
 
 h1 {
-  margin-bottom: 3rem;
+  margin-bottom: 1rem;
   text-align: center;
 }
 
