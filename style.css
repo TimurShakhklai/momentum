@@ -268,13 +268,13 @@ h2 {
   } 
 
   .day {
-    padding: 1.2em 0em 0em 0em;
-    font-size: 10px;
+    padding: 3em 0em 0em 0em;
+    font-size: 5em;
     text-align: center;
   }
 
 .time {
-  font-size: 14px;
+  font-size: 8em;
   text-align: center;
 }
 
@@ -290,6 +290,7 @@ h2 {
 }
 
 .city{
+    font-size: 14px;
     padding: 1em;
     position: absolute; 
     top: 1em; 
@@ -300,6 +301,7 @@ h2 {
 }
 
 .weather{
+  font-size: 14px;
   display: flex;
   flex-direction: column;
   align-items: center;
