@@ -240,7 +240,6 @@ async function getWeather() {
   weatherDescription.textContent = '';
   wind.textContent = 'Error';
   humidity.textContent = '';
-  alert("Wrong city name");
   } else{
   weatherIcon.className = 'weather-icon owf';
   weatherIcon.classList.add(`owf-${data.weather[0].id}`);
