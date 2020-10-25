@@ -269,11 +269,12 @@ h2 {
 
   .day {
     padding: 3em 0em 0em 0em;
-    font-size: 5em;
+    font-size: 1em;
     text-align: center;
   }
 
 .time {
+  font-size:1.2em;
   text-align: center;
 }
 
